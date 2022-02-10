@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 $ git clone https://github.com/AlexandreDChaves/stream
 
 # Entrar no didretório
-$ cd stream
+$ cd Streamer
 ```
 
 ---
